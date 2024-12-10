@@ -1,5 +1,1 @@
 Test xung đột với nhánh default
-    Merge ui thì có thể chọn nhánh, default không ảnh hưởng.
-    In the Merge UI, you can designate any branch as the source or the target, the role default are not influent.
-
-
